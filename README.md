@@ -1,4 +1,4 @@
-# Kirchenbeschallung – Komplettsystem (Budget ≤ 3 500 €)
+# Kirchenbeschallung – Komplettsystem (Budget > 3 500 €)
 
 ## Gesamtübersicht
 
