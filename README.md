@@ -31,7 +31,7 @@ Frequenzbereich 470–526 MHz (Q1-6), sehr geringe Latenz (~1.9 ms).
 Passender Einzel-Empfänger zur EW-DP-Serie, digitaler UHF-Betrieb, Diversity-Empfang, robustes Metallgehäuse.  
 Jeder Empfänger verwaltet einen Sender; daher zwei Einheiten für zwei Schwanenhälse.
 
-### [A4 – the t.bone XLR Table Base](https://www.thomann.de/at/the_tbone_tablebase_xlr.htm)
+### [A4 – the t.bone XLR Table Base]((https://www.thomann.at/the_tbone_tischfuss.htm))
 Tisch- bzw. Pult-Basis mit integrierter XLR-Buchse, robust aus Metall.  
 Sorgt für stabile Positionierung der Schwanenhälse am Altar ohne optische Auffälligkeit.
 
