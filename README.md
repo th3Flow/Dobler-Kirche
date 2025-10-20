@@ -39,12 +39,12 @@ Sorgt für stabile Positionierung der Schwanenhälse am Altar ohne optische Auff
 
 ## B – Sprechermikrofone (Headset, Lavalier, Handheld)
 
-### [B1 – Shure BLX1288/P31 Set](https://www.thomann.de/at/shure_blx1288_p31_m17.htm)
+### [B1 – Shure BLX1288/P31 Set](https://www.thomann.at/shure_blx1288_p31_combo_k3e.htm)
 Zweikanal-System mit einem Handheld-Sender (PG58) und einem Bodypack-Sender (BLX1) inklusive Headset (PGA31).  
 Läuft im S8- oder M17-Band, bis zu 12 Kanäle gleichzeitig möglich.  
 Ideal für Pfarrer:in (Headset) und Sprecher:in (Handheld) in einem kompakten Empfänger.
 
-### [B2 – Shure BLX14/CVL Set](https://www.thomann.de/at/shure_blx14_cvl_s8.htm)
+### [B2 – Shure BLX14/CVL Set](https://www.thomann.at/shure_blx14_cvl_m17.htm)
 Einzelstrecke mit Bodypack und Clip-Mikro (CVL Lavalier).  
 Ergänzt das obige Set um eine weitere Sprechposition (z. B. zweiter Pfarrer).  
 Lizenzfrei im S8-Band (823–832 MHz).
@@ -53,7 +53,7 @@ Lizenzfrei im S8-Band (823–832 MHz).
 
 ## C – Instrumente
 
-### [C1 – Millenium DI-E Passive DI-Box](https://www.thomann.de/at/millenium_die_di_box.htm)
+### [C1 – Millenium DI-E Passive DI-Box](https://www.thomann.at/millenium_die_dibox_passiv.htm)
 Einfache, stabile DI-Box zur Anpassung von hochohmigen Instrumentensignalen (Gitarre, Keyboard) auf symmetrische XLR-Eingänge.  
 Mit Ground-Lift-Schalter zur Brummunterdrückung.  
 Für zweite Gitarre optional eine zweite DI-Box oder eine Dual-DI (z. B. ART dPDB).
