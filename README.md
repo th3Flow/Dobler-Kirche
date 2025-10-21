@@ -5,7 +5,7 @@
 | Pos. | Kategorie | Artikel | Menge | Einzelpreis (€) | Gesamt (€) |
 |:--:|:--|:--|:--:|:--:|:--:|
 | **A1** | Altar | AKG CGN 99 CL Schwanenhals | 2 | 148 | **296** |
-| **A2 / A3** | Altar | Sennheiser EW-DP EK/SKP Q1-6 Bundle | 2 | 659 | **1 318** |
+| **A2/A3** | Altar | Sennheiser EW-DP EK/SKP Q1-6 Bundle | 2 | 659 | **1 318** |
 | **A4** | Altar | the t.bone XLR Table Base (Pult-Ständer) | 2 | 35 | **70** |
 | **B1** | Sprache | Shure BLX1288/P31 (Dual Empfänger + Handheld + Headset) | 1 | 662 | **662** |
 | **B2** | Sprache | Shure CVL Lavalier Mikrofon (für BLX1 Bodypack) | 1 | 82 | **82** |
