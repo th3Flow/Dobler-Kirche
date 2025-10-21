@@ -8,9 +8,11 @@
 | **A2/A3** | Altar | Sennheiser EW-DP EK/SKP Q1-6 Bundle | 2 | 659 | **1 318** |
 | **A4** | Altar | the t.bone XLR Table Base (Pult-Ständer) | 2 | 35 | **70** |
 | **B1** | Sprache | Shure BLX1288/P31 (Dual Empfänger + Handheld + Headset) | 1 | 662 | **662** |
-| **B2** | Sprache | Shure CVL Lavalier Mikrofon (für BLX1 Bodypack) | 1 | 82 | **82** |
+| **B2** | Sprache | Shure CVL Lavalier-Mikrofon | 1 | 82 | **82** |
 | **C1** | Instrumente / Line | Millenium DI-E (passive DI-Box) | 1 | 15 | **15** |
-|  |  |  |  | **Gesamtsumme:** | **2 443 €** |
+| **D1** | Rackmixer | Behringer RX1602 V2 Line Mixer | 1 | 99 | **99** |
+| **E1** | Kabel | Cordial CFM 3 FV (sym. Klinke male → XLR female, 3 m) | 6 | 10.50 | **63** |
+|  |  |  |  | **Gesamtsumme:** | **2 605 €** |
 
 ---
 
@@ -33,7 +35,7 @@ Metallgehäuse, kompakt und rutschfest, ideal für feste Altarinstallationen.
 
 ---
 
-## B – Sprache (Headset, Handheld und Lavalier)
+## B – Sprache (Headset, Lavalier und Handheld)
 
 ### [B1 – Shure BLX1288/P31 Set](https://www.thomann.at/shure_blx1288_p31_combo_k3e.htm)
 Dual-Empfänger mit zwei Sendern:  
@@ -42,11 +44,10 @@ Dual-Empfänger mit zwei Sendern:
 Läuft im M17- oder S8-Band (lizenzfrei in Österreich), robust, einfach bedienbar, 12 Kanäle gleichzeitig möglich.  
 Sehr gute Sprachverständlichkeit, bewährt in Live-Umgebungen.
 
-### [B2 – Shure CVL Lavalier Mikrofon](https://www.thomann.at/shure_cvl.htm)
-Kondensator-Lavaliermikrofon mit Nierencharakteristik, Anschluss: TA4F/TQG-Stecker.  
-Direkt kompatibel mit dem Shure BLX1 Bodypack-Sender aus dem BLX1288/P31-Set.  
-Ideal für unauffällige Sprachübertragung – kann alternativ zum Headset verwendet werden, z. B. bei Messfeiern oder Lesungen.  
-Lieferumfang inklusive Windschutz und Clip.
+### [B2 – Shure CVL Lavalier-Mikrofon](https://www.thomann.at/shure_cvl.htm)
+Kondensator-Lavalier-Mikrofon mit Nierencharakteristik, unauffälliges Design, ideal für Kirchenräume.  
+Anschluss über TA4F/TQG-Stecker, **voll kompatibel mit dem BLX1 Bodypack-Sender** des BLX1288/P31-Sets.  
+Bietet klare Sprachübertragung mit hoher Rückkopplungsfestigkeit, geeignet für Pfarrer:innen oder Redner:innen, die kein Headset tragen möchten.
 
 ---
 
@@ -59,16 +60,37 @@ Kann auch am Mono-Ausgang eines kleinen Mischpults hängen und über einen Sennh
 
 ---
 
-## Hinweise zum Betrieb
+## D – Rackmixer
 
-- **Gesamtkanäle:** 5 Funkstrecken (2 × Sennheiser Altar + 2 × Shure Sprache + 1 Lavalier).  
-- **Frequenztrennung:** Sennheiser Q1-6 (470–526 MHz) und Shure M17/S8 (662–832 MHz) liegen weit auseinander → keine Interferenzen.  
-- **Phantompower:** EW-DP Plug-On-Sender liefern 48 V für Kondensator-Mikrofone (z. B. AKG CGN 99 CL).  
-- **Empfangsqualität:** Bei dicken Mauern ggf. externe Antennen (z. B. Sennheiser A1031-U) im Kirchenschiff positionieren.  
-- **Betrieb:** Alle Empfänger Netzbetrieb; Sender mit AA-Batterien oder Eneloop-Akkus.  
-- **Verkabelung:** Empfänger symmetrisch (XLR) ins bestehende Mischpult einspeisen.
+### [D1 – Behringer RX1602 V2](https://www.thomann.at/behringer_rx1602_v2.htm)
+Kompakter 19"-Line-Mixer (1 HE) mit 16 symmetrischen 6,3 mm-Klinken-Eingängen.  
+Zwei symmetrische XLR-Main-Ausgänge sowie zwei 6,3 mm-Monitor-Ausgänge.  
+Ideal für die zentrale Signalführung aller Funkempfänger und DI-Quellen im Rack.  
+Sehr rauscharm, robust gebaut, mit Master-Level-Metering und Mute-Optionen.  
+Bietet ausreichende Kanalkapazität für dein gesamtes Funksystem plus Reserve.
 
 ---
 
-**Gesamtsumme: ca. 2 440 €**  
-Ein flexibles, professionelles Kirchenbeschallungssystem mit stabiler Funkarchitektur, hoher Sprachverständlichkeit und ausreichender Reserve unter dem 3 500 €-Limit.
+## E – Verkabelung
+
+### [E1 – Cordial CFM 3 FV (sym. Klinke male → XLR female, 3 m)](https://www.thomann.at/cordial_cfm_3_fv_klinke_xlr_kabel.htm)
+Professionelles symmetrisches Verbindungskabel für Studio- und Livebetrieb.  
+Klinke (TRS) male → XLR female, 3 m Länge, robuste Stecker, exzellente Abschirmung.  
+Verbindet den Rackmixer-Ausgang oder Empfängerausgänge direkt mit der Kirchen-Hauptanlage.  
+6 Stück decken sämtliche Signalwege ab.
+
+---
+
+## Hinweise zum Betrieb
+
+- **Gesamtkanäle:** 5 Funkstrecken (2 × Sennheiser Altar + 3 × Shure Sprache).  
+- **Rackintegration:** Alle Empfänger + Mixer in 19"-Rack; Kabelverbindungen symmetrisch.  
+- **Frequenztrennung:** Sennheiser Q1-6 (470–526 MHz) und Shure M17/S8 (662–832 MHz) → keine Interferenzen.  
+- **Phantompower:** EW-DP Plug-On-Sender liefern 48 V für Kondensator-Mikrofone (z. B. AKG CGN 99 CL).  
+- **Betrieb:** Empfänger Netzbetrieb; Sender mit AA-Batterien oder Eneloop-Akkus.  
+- **Signalführung:** Mixer-Ausgänge symmetrisch über Cordial CFM 3 FV in Hauptanlage oder Stagebox.
+
+---
+
+**Gesamtsumme: ca. 2 605 €**  
+Kompaktes, professionelles Funksystem mit Rackintegration, symmetrischer Verkabelung und komfortabler Erweiterbarkeit.
