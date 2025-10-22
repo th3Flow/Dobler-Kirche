@@ -14,7 +14,8 @@
 | **D1** | Rackmixer | Behringer RX1602 V2 Line Mixer | 1 | 99 | **99** |
 | **E1** | Verkabelung | Cordial CFM 3 FV (sym. Klinke male → XLR female, 3 m) | 6 | 10.40 | **62.40** |
 | **F1** | Stromversorgung | Stairville Mains Extension MC 3 m (1,5 mm²) | 3 | 8.90 | **26.70** |
-|  |  |  |  | **Gesamtsumme:** | **2 645 €** |
+| **G1** | USB-C Stromversorgung | Belkin 65 W Dual USB-C Charger | 2 | 30 | **60** |
+|  |  |  |  | **Gesamtsumme:** | **2 705 €** |
 
 ---
 
@@ -28,7 +29,9 @@ Klarer, natürlicher Sprachklang, unauffälliges Design, ideal für Altare.
 ### [A2/A3 – Sennheiser EW-DP EK/SKP Q1-6 Bundle](https://www.thomann.at/sennheiser_ew_dp_ek_skp_q1_6_bundle.htm)
 Digitale Funkstrecke mit Plug-On-Sender (SKP) und Empfänger (EK).  
 Echter +48 V Phantom-Power-Betrieb, Frequenzband 470–526 MHz (Q1-6).  
-Extrem rauscharm, geringe Latenz (~1,9 ms), stabile UHF-Übertragung – perfekt für Altar-Setups oder Line-Signale.
+Extrem rauscharm, geringe Latenz (~1,9 ms), stabile UHF-Übertragung – perfekt für Altar-Setups oder Line-Signale.  
+Empfänger können über **USB-C direkt mit Netzstrom** betrieben werden; Sender verwenden Batterien oder Akkus.  
+Leistungsaufnahme: ca. 8 W pro Empfänger, 2 W pro Sender.
 
 ### [A4 – the t.bone XLR Table Base](https://www.thomann.at/the_tbone_tischfuss.htm)
 Schwerer Metall-Tischfuß mit integrierter XLR-Buchse, ideal zur stabilen Platzierung der Schwanenhälse.  
@@ -68,7 +71,7 @@ Optional auch zur Einspeisung eines kleinen Submix-Signals via Sennheiser Plug-O
 ## D – Rackmixer
 
 ### [D1 – Behringer RX1602 V2](https://www.thomann.at/behringer_rx1602_v2.htm)
-1 HE Line-Mixer für 19" Racks, 16 symmetrische 6,3 mm-Klinkeneingänge.  
+1 HE Line-Mixer für 19"-Racks, 16 symmetrische 6,3 mm-Klinkeneingänge.  
 Ausgänge: 2 × symmetrische XLR Main Outs + 2 × TRS Monitor Outs.  
 Ideal zur zentralen Signalführung aller Funkempfänger im Sakristei-Rack.  
 Sehr rauscharm, robust und mit Pegelanzeigen.  
@@ -94,17 +97,28 @@ Drei Stück decken Empfänger, Mixer und Peripherie ab.
 
 ---
 
+## G – USB-C Stromversorgung
+
+### [G1 – Belkin 65 W Dual USB-C Charger](https://www.amazon.de/Belkin-65-W-USB-C-Ladeger%C3%A4t-Schnellladen-Delivery-3-0-GaN-Technologie/dp/B0B4NZZDQ5?shipTo=AT)
+Kompaktes GaN-Netzteil mit zwei USB-C Ausgängen und 65 W Gesamtleistung.  
+Unterstützt USB-Power Delivery 3.0 und PPS für präzise Spannungsregelung (5–20 V).  
+Ideal für den Betrieb von zwei Sennheiser EW-DP Empfängern gleichzeitig.  
+Markenqualität mit hohem Wirkungsgrad und Thermo-/Überspannungsschutz.  
+Zwei Netzteile sichern redundanten Betrieb und Reserveleistung (~50 % Auslastung je Einheit).
+
+---
+
 ## Hinweise zum Betrieb
 
 - **Gesamtkanäle:** 5 Funkstrecken (2 × Sennheiser Altar + 3 × Shure Sprache).  
 - **Rackintegration:** Empfänger + Mixer im 19"-Rack; symmetrische Verkabelung.  
 - **Frequenztrennung:** Sennheiser Q1-6 (470–526 MHz) und Shure M17/S8 (662–832 MHz) → keine Interferenzen.  
 - **Phantompower:** EW-DP Plug-On-Sender liefern 48 V für Kondensator-Mikros.  
-- **Signalführung:** Mixer-Ausgänge symmetrisch über Cordial CFM 3 FV an Kirchenanlage.  
-- **Stromversorgung:** über Stairville 3 m Verlängerungen – sichere, stabile Netzlösung.  
+- **Stromversorgung:** Sennheiser-Empfänger per USB-C über Belkin 65 W Netzteile – je 2 Geräte pro Netzteil empfohlen.  
+- **Leistungsreserve:** Ein Empfänger zieht max. 8 W, ein Sender ~2 W → Gesamtbedarf < 30 W.  
+- **Sicherheit:** Alle Stromwege über Stairville-Verlängerungen und Rack-Steckdosenleiste führen zuverlässig auf geerdeten Netzanschluss.  
 
 ---
 
-**Gesamtsumme: ca. 2 645 €**  
-Vollständiges, professionelles Funksystem mit Rackintegration, sauberer Stromversorgung und symmetrischer Signalführung.  
-Betriebssicher, erweiterbar und wartungsarm – geeignet für dauerhafte Kirchennutzung.
+**Gesamtsumme: ca. 2 705 €**  
+Vollständiges, professionelles System für Kirchenbeschallung – wartungsarm, symmetrisch verkabelt und netzgesichert.
