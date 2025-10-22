@@ -2,7 +2,7 @@
 
 ## Gesamtübersicht
 
-| Pos. | Kategorie | Artikel | Menge | Einzelpreis (€) | Gesamt (€) |
+| Pos. | Kategorie | Artikel | Menge | Einzelpreis (€) | Gesamt (€)    |
 |:--:|:--|:--|:--:|:--:|:--:|
 | **A1** | Altar | AKG CGN 99 CL Schwanenhals | 2 | 148 | **296** |
 | **A2/A3** | Altar | Sennheiser EW-DP EK/SKP Q1-6 Bundle | 2 | 659 | **1 318** |
