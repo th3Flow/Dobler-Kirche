@@ -7,31 +7,36 @@
 | **A1** | Altar | AKG CGN 99 CL Schwanenhals | 2 | 148 | **296** |
 | **A2/A3** | Altar | Sennheiser EW-DP EK/SKP Q1-6 Bundle | 2 | 659 | **1 318** |
 | **A4** | Altar | the t.bone XLR Table Base (Pult-Ständer) | 2 | 35 | **70** |
+| **A5** | Altar | Shure A25D Mikrofonhalter | 2 | 7 | **14** |
 | **B1** | Sprache | Shure BLX1288/P31 (Dual Empfänger + Handheld + Headset) | 1 | 662 | **662** |
 | **B2** | Sprache | Shure CVL Lavalier-Mikrofon | 1 | 82 | **82** |
 | **C1** | Instrumente / Line | Millenium DI-E (passive DI-Box) | 1 | 15 | **15** |
 | **D1** | Rackmixer | Behringer RX1602 V2 Line Mixer | 1 | 99 | **99** |
-| **E1** | Kabel | Cordial CFM 3 FV (sym. Klinke male → XLR female, 3 m) | 6 | 10.50 | **63** |
-|  |  |  |  | **Gesamtsumme:** | **2 605 €** |
+| **E1** | Verkabelung | Cordial CFM 3 FV (sym. Klinke male → XLR female, 3 m) | 6 | 10.40 | **62.40** |
+| **F1** | Stromversorgung | Stairville Mains Extension MC 3 m (1,5 mm²) | 3 | 8.90 | **26.70** |
+|  |  |  |  | **Gesamtsumme:** | **2 645 €** |
 
 ---
 
 ## A – Altar-Mikrofone und Funkstrecken
 
 ### [A1 – AKG CGN 99 CL](https://www.thomann.de/at/akg_cgn_99_cl.htm)
-Kondensator-Schwanenhalsmikrofon mit Nierencharakteristik, Länge 580 mm.  
-Benötigt 9–52 V Phantomspeisung – perfekt kompatibel mit den Sennheiser Plug-On-Sendern.  
-Bietet sauberen, natürlichen Sprachklang und ist optisch dezent für den Altarbereich.
+Kondensator-Schwanenhalsmikrofon mit Nierencharakteristik, 580 mm Länge.  
+Benötigt 9–52 V Phantomspeisung – perfekt für den Betrieb über Sennheiser Plug-On-Sender.  
+Klarer, natürlicher Sprachklang, unauffälliges Design, ideal für Altare.
 
 ### [A2/A3 – Sennheiser EW-DP EK/SKP Q1-6 Bundle](https://www.thomann.at/sennheiser_ew_dp_ek_skp_q1_6_bundle.htm)
-Digitale Funkstrecke bestehend aus Plug-On-Sender (SKP) mit +48 V Phantompower und Empfänger (EK).  
-Frequenzband Q1-6 (470–526 MHz), professionelle UHF-Übertragung mit sehr niedriger Latenz (~1.9 ms).  
-Robuste Bauweise, Diversity-Empfang, perfekt für Kondensator-Mikrofone oder Line-Signale vom Mischpult.  
-Zwei Sets ermöglichen den gleichzeitigen Einsatz beider Altarmikrofone.
+Digitale Funkstrecke mit Plug-On-Sender (SKP) und Empfänger (EK).  
+Echter +48 V Phantom-Power-Betrieb, Frequenzband 470–526 MHz (Q1-6).  
+Extrem rauscharm, geringe Latenz (~1,9 ms), stabile UHF-Übertragung – perfekt für Altar-Setups oder Line-Signale.
 
 ### [A4 – the t.bone XLR Table Base](https://www.thomann.at/the_tbone_tischfuss.htm)
-Tisch- bzw. Pultbasis mit XLR-Buchse zur stabilen Montage der Schwanenhälse.  
-Metallgehäuse, kompakt und rutschfest, ideal für feste Altarinstallationen.
+Schwerer Metall-Tischfuß mit integrierter XLR-Buchse, ideal zur stabilen Platzierung der Schwanenhälse.  
+Schlicht, robust, unauffällig – genau richtig für Kircheneinsatz.
+
+### [A5 – Shure A25D Mikrofonhalter](https://www.thomann.at/shure_a25d_mikrohalter.htm)
+Universelle Mikrofonhalterung mit 5/8"-Gewinde, kompatibel mit den meisten Handheld-Mikrofonen.  
+Zwei Stück sichern ordentlichen Halt für spontane Mikrofon-Positionierungen am Altar oder Pult.
 
 ---
 
@@ -39,58 +44,67 @@ Metallgehäuse, kompakt und rutschfest, ideal für feste Altarinstallationen.
 
 ### [B1 – Shure BLX1288/P31 Set](https://www.thomann.at/shure_blx1288_p31_combo_k3e.htm)
 Dual-Empfänger mit zwei Sendern:  
-– Handheld-Mikrofon (PG58) für Sprecher oder Lektor  
-– Bodypack mit Headset (PGA31) für Pfarrer:in oder Moderator:in.  
-Läuft im M17- oder S8-Band (lizenzfrei in Österreich), robust, einfach bedienbar, 12 Kanäle gleichzeitig möglich.  
-Sehr gute Sprachverständlichkeit, bewährt in Live-Umgebungen.
+– Handheld (PG58) für Sprecher:innen  
+– Bodypack + Headset (PGA31) für Pfarrer:innen oder Lektor:innen.  
+Läuft im M17/S8-Band (lizenzfrei in Österreich), bis zu 12 Kanäle gleichzeitig möglich.  
+Bewährt in Live-Umgebungen mit sehr guter Sprachverständlichkeit.
 
 ### [B2 – Shure CVL Lavalier-Mikrofon](https://www.thomann.at/shure_cvl.htm)
-Kondensator-Lavalier-Mikrofon mit Nierencharakteristik, unauffälliges Design, ideal für Kirchenräume.  
-Anschluss über TA4F/TQG-Stecker, **voll kompatibel mit dem BLX1 Bodypack-Sender** des BLX1288/P31-Sets.  
-Bietet klare Sprachübertragung mit hoher Rückkopplungsfestigkeit, geeignet für Pfarrer:innen oder Redner:innen, die kein Headset tragen möchten.
+Unauffälliges Kondensator-Ansteckmikrofon mit Nierencharakteristik.  
+TA4F/TQG-Stecker, kompatibel mit BLX1 Bodypack.  
+Klarer Klang bei gleichzeitiger Rückkopplungssicherheit – ideal, wenn kein Headset gewünscht ist.
 
 ---
 
 ## C – Instrumente / Line-Signale
 
 ### [C1 – Millenium DI-E Passive DI-Box](https://www.thomann.at/millenium_die_dibox_passiv.htm)
-Passive DI-Box zur Anpassung von Gitarren- oder Line-Signalen an symmetrische XLR-Eingänge.  
-Mit Ground-Lift-Schalter zur Vermeidung von Brummschleifen.  
-Kann auch am Mono-Ausgang eines kleinen Mischpults hängen und über einen Sennheiser-Plug-On-Sender kabellos übertragen werden.
+Passive DI-Box zur Anpassung von Gitarren- oder Line-Signalen auf symmetrische XLR-Ausgänge.  
+Mit Ground-Lift-Schalter, robustem Gehäuse und durchdachter Buchsenanordnung.  
+Optional auch zur Einspeisung eines kleinen Submix-Signals via Sennheiser Plug-On.
 
 ---
 
 ## D – Rackmixer
 
 ### [D1 – Behringer RX1602 V2](https://www.thomann.at/behringer_rx1602_v2.htm)
-Kompakter 19"-Line-Mixer (1 HE) mit 16 symmetrischen 6,3 mm-Klinken-Eingängen.  
-Zwei symmetrische XLR-Main-Ausgänge sowie zwei 6,3 mm-Monitor-Ausgänge.  
-Ideal für die zentrale Signalführung aller Funkempfänger und DI-Quellen im Rack.  
-Sehr rauscharm, robust gebaut, mit Master-Level-Metering und Mute-Optionen.  
-Bietet ausreichende Kanalkapazität für dein gesamtes Funksystem plus Reserve.
+1 HE Line-Mixer für 19" Racks, 16 symmetrische 6,3 mm-Klinkeneingänge.  
+Ausgänge: 2 × symmetrische XLR Main Outs + 2 × TRS Monitor Outs.  
+Ideal zur zentralen Signalführung aller Funkempfänger im Sakristei-Rack.  
+Sehr rauscharm, robust und mit Pegelanzeigen.  
+Preis-Leistungs-König in seiner Klasse.
 
 ---
 
 ## E – Verkabelung
 
 ### [E1 – Cordial CFM 3 FV (sym. Klinke male → XLR female, 3 m)](https://www.thomann.at/cordial_cfm_3_fv_klinke_xlr_kabel.htm)
-Professionelles symmetrisches Verbindungskabel für Studio- und Livebetrieb.  
-Klinke (TRS) male → XLR female, 3 m Länge, robuste Stecker, exzellente Abschirmung.  
-Verbindet den Rackmixer-Ausgang oder Empfängerausgänge direkt mit der Kirchen-Hauptanlage.  
-6 Stück decken sämtliche Signalwege ab.
+Symmetrisches Verbindungskabel, 3 m Länge, hochwertige Stecker und Abschirmung.  
+Perfekt für symmetrische Signalführung vom Mixer zur Kirchenanlage oder Stagebox.  
+6 Stück decken sämtliche Line-Verbindungen ab – sauber, verlustfrei, brummfrei.
+
+---
+
+## F – Stromversorgung
+
+### [F1 – Stairville Mains Extension MC 3 m (1,5 mm²)](https://www.thomann.at/stairville_mains_extension_mc_3m_15_mm.htm)
+Stabiles Stromverlängerungskabel, 3 m Länge, 1,5 mm² Querschnitt.  
+Perfekt für Rack, Altarbereich oder dauerhafte Installation im Sakristeiraum.  
+Drei Stück decken Empfänger, Mixer und Peripherie ab.
 
 ---
 
 ## Hinweise zum Betrieb
 
 - **Gesamtkanäle:** 5 Funkstrecken (2 × Sennheiser Altar + 3 × Shure Sprache).  
-- **Rackintegration:** Alle Empfänger + Mixer in 19"-Rack; Kabelverbindungen symmetrisch.  
+- **Rackintegration:** Empfänger + Mixer im 19"-Rack; symmetrische Verkabelung.  
 - **Frequenztrennung:** Sennheiser Q1-6 (470–526 MHz) und Shure M17/S8 (662–832 MHz) → keine Interferenzen.  
-- **Phantompower:** EW-DP Plug-On-Sender liefern 48 V für Kondensator-Mikrofone (z. B. AKG CGN 99 CL).  
-- **Betrieb:** Empfänger Netzbetrieb; Sender mit AA-Batterien oder Eneloop-Akkus.  
-- **Signalführung:** Mixer-Ausgänge symmetrisch über Cordial CFM 3 FV in Hauptanlage oder Stagebox.
+- **Phantompower:** EW-DP Plug-On-Sender liefern 48 V für Kondensator-Mikros.  
+- **Signalführung:** Mixer-Ausgänge symmetrisch über Cordial CFM 3 FV an Kirchenanlage.  
+- **Stromversorgung:** über Stairville 3 m Verlängerungen – sichere, stabile Netzlösung.  
 
 ---
 
-**Gesamtsumme: ca. 2 605 €**  
-Kompaktes, professionelles Funksystem mit Rackintegration, symmetrischer Verkabelung und komfortabler Erweiterbarkeit.
+**Gesamtsumme: ca. 2 645 €**  
+Vollständiges, professionelles Funksystem mit Rackintegration, sauberer Stromversorgung und symmetrischer Signalführung.  
+Betriebssicher, erweiterbar und wartungsarm – geeignet für dauerhafte Kirchennutzung.
